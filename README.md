@@ -33,6 +33,18 @@ to create, view, sort, and modify orders within different routes.
 - Database: MySQL
 ```
 
+# Environment Variables (.env)
+
+```sql
+ADMIN_USERNAME = "root"
+ADMIN_PASSWORD = "kardokiyani1998"
+DATABASE_NAME = "routes_db"
+DIALECT = "mysql"
+DIALECTMODEL = "mysql2"
+PORT = "3000"
+HOST = "localhost"
+```
+
 # Setup Instructions
 
 ## Back-End
