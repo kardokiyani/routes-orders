@@ -47,6 +47,9 @@ npm install
 ```sql
 npm run dev
 ```
+
+### Open new terminal before navigating to the Front-End folder
+
 ## Front-End
 
 ### Navigate to the Front-End folder:
